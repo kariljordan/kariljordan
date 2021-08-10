@@ -1,4 +1,4 @@
-### Hi there 👋
+### Executive Director at [The Carpentries](https://carpentries.org/team/)
 
 <!--
 **kariljordan/kariljordan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
